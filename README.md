@@ -1,13 +1,13 @@
 # CodeFlowAli 🚀
 
 Hi, I'm Ali Haider — a Front-End Web Developer focused on building modern, responsive and high-performance websites using HTML, CSS and JavaScript.
-
+    
 I create clean user interfaces, mobile-friendly layouts and smooth web experiences that improve usability, performance and user engagement.
 
 ## 💻 Tech Stack
 - HTML5
 - CSS3
-- JavaScript
+- Java Script
 - Responsive Web Design
 - UI/UX Focused Development
 
