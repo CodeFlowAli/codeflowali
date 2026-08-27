@@ -1,33 +1,44 @@
 # CodeFlowAli 🚀
 
-Hi, I'm Ali Haider — a Front-End Web Developer focused on building modern, responsive and high-performance websites using HTML, CSS and JavaScript.
-    
-I create clean user interfaces, mobile-friendly layouts and smooth web experiences that improve usability, performance and user engagement.
+Hi, I'm Ali Haider — a Front-End Developer focused on building modern, responsive and high-performance web applications using **React, JavaScript, HTML and CSS**.
+
+I'm also exploring **AI-powered web experiences**, combining modern front-end development with AI to build smarter, more interactive and user-focused applications.
+
+I enjoy creating clean user interfaces, responsive layouts, smooth interactions and performance-focused experiences that improve usability and engagement.
 
 ## 💻 Tech Stack
-- HTML5
-- CSS3
-- Java Script
-- Responsive Web Design
-- UI/UX Focused Development
+
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* Responsive Web Design
+* UI/UX Development
+* AI Integration & AI-Powered Web Experiences
 
 ## 🚀 What I Do
-- Responsive Website Development
-- Modern Landing Pages
-- Clean and Structured Front-End Code
-- Mobile-Optimized Web Interfaces
-- Interactive User Experiences
-- Performance-Focused Design
+
+* React Web Application Development
+* Responsive & Mobile-Friendly Interfaces
+* Modern Landing Pages
+* Interactive User Experiences
+* AI-Powered Web Features
+* Clean & Structured Front-End Code
+* Performance-Focused Development
 
 ## 🎯 Focus Areas
-- Front-End Web Development
-- Responsive Design
-- Website Performance Optimization
-- Modern UI Design
-- User Experience Improvements
+
+* React & Front-End Development
+* AI-Powered Web Applications
+* Modern UI/UX Design
+* Responsive Web Development
+* Website Performance Optimization
+* Interactive & Intelligent User Experiences
 
 ## 📈 Goals
-Continuously improving my front-end development skills, building professional web projects and creating fast, user-friendly and visually modern websites.
+
+Continuously improving my **React and AI development skills**, building real-world projects, and creating modern web applications that are fast, intelligent, accessible and user-friendly.
 
 ---
-⭐ Passionate about clean code, responsive layouts and modern web development.
+
+⭐ Passionate about **React, AI, clean code, modern UI and building better web experiences.**
