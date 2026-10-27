@@ -2,6 +2,10 @@
 
 # CodeFlow Ali 🚀
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=I+create+websites+and+apps+with+AI;Learn+HTML%2C+CSS%2C+JavaScript+and+React;Easy+tutorials+with+real+projects)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=CodeFlowAli&color=8A2BE2&style=flat-square)
+
 ### Hi, I'm Ali Haider — I create websites and apps with AI + web development
 
 🎥 **YouTube:** [@CodeFlowAli](https://www.youtube.com/@CodeFlowAli) — easy, step-by-step tutorials with real projects
@@ -23,6 +27,13 @@
 ![AI](https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
+<div align="center">
+
+![Tools](https://skillicons.dev/icons?i=html,css,js,react,github,vscode,git&theme=dark#gh-dark-mode-only)
+![Tools](https://skillicons.dev/icons?i=html,css,js,react,github,vscode,git&theme=light#gh-light-mode-only)
+
+</div>
+
 ## 🚀 What I Teach
 
 - 🌐 Websites and apps with AI + web development
@@ -39,6 +50,20 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeFlowAli&layout=compact&theme=radical#gh-dark-mode-only)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeFlowAli&layout=compact&theme=default#gh-light-mode-only)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeFlowAli&theme=radical#gh-dark-mode-only)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeFlowAli&theme=default#gh-light-mode-only)
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeFlowAli)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeFlowAli)
+
+**Want to learn web development? DM me — let's build something amazing together! 🚀**
 
 </div>
 
